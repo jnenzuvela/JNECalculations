@@ -239,13 +239,6 @@ def _split_columns(spec: ReportSpec) -> list[tuple[str, list[Column]]]:
     ]
 
 def _partition(columns: list[Column], table_rows: list[dict[str, Any]]) -> tuple[list[Column], list[tuple[str, Any]]]:
-    """Columns that vary, and the (header, value) pairs that are the same on every row.
-
-    A column carrying one repeated value says nothing a single line below the table
-    cannot. Headline columns are exempt — burying the answer in a footnote is wrong
-    even when every row agrees. With fewer than two rows nothing is meaningfully
-    constant, so everything is kept.
-    """
     if len(table_rows) < 2:
         return columns, []
 
