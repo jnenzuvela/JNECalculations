@@ -1,4 +1,4 @@
-## Overview
+<!-- ## Overview
 
 Voltage drop must be accounted for in circuit design, especially for long conductor runs. Under the National Electrical Code (NEC) 2026, voltage drop parameters are defined by advisory guidelines rather than rigid branch-circuit rules. 
 
@@ -98,4 +98,4 @@ Section 215.4(A)(1) — Feeder Voltage Drop Informational Note
 ### Related NEC Tables
 
 Chapter 9, Table 8 — Conductor Properties<br/>
-Chapter 9, Table 9 — AC Resistance and Reactance for 600-Volt Cables
+Chapter 9, Table 9 — AC Resistance and Reactance for 600-Volt Cables -->

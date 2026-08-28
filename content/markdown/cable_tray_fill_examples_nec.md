@@ -1,4 +1,4 @@
-## Overview
+<!-- ## Overview
 
 <!-- Sizing cable trays under the NEC requires evaluating the type of cables, quantities, and cross-sectional dimensions. Cable tray fill evaluation is based on **NEC 392.22** to ensure proper heat dissipation and mechanical safety.
 
@@ -37,4 +37,4 @@ Section 392.80 — Ampacity of Conductors in Cable Trays
 Table 392.22(A)(1) — Allowable Cable Fill Area for Multiconductor Cables in Ladder, Ventilated Trough, or Solid Bottom Cable Trays<br/>
 Table 392.22(B)(1) — Allowable Cable Fill Area for Single-Conductor Cables in Ladder, Ventilated Trough, or Wire Mesh Cable Trays
 
-
+ -->

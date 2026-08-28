@@ -1,4 +1,4 @@
-## Overview
+<!-- ## Overview
 
 Cables installed in conduit are protected from physical and environmental damage. Under the NEC, conductors must be derated according to the quantity installed in a single raceway (NEC Table 310.15(C)(1)). Conductor cross-sectional areas are determined from Chapter 9, Table 5, and compared to internal conduit fill areas from Chapter 9, Table 4. Sizing and fill rules are governed by **NEC Chapter 9, Table 1**.
 
@@ -77,7 +77,7 @@ At 40% fill, a 3" RMC can only carry 3.000 in². Thus, the #10 AWG run will over
   - Fill% = $(2.5953 / 7.500) \times 100\% = 34.60\% \leq 40\% \quad \checkmark$
 
 --- -->
-
+<!-- 
 ## Bend Radii
 
 To prevent physical stress on the conductor insulation during installation, the conduit bend radius must comply with NEC Chapter 9, Table 2 (or standard bending requirements defined in specific raceway Articles 3XX.24, such as NEC 344.24 for RMC and NEC 358.24 for EMT).
@@ -102,4 +102,4 @@ Section 358.24 — Bending radius (EMT)
 Chapter 9, Table 1 — Percent of Cross Section of Conduit and Tubing for Conductors<br/>
 Chapter 9, Table 2 — Radius of Conduit Bends<br/>
 Chapter 9, Table 4 — Dimensions and Percent Area of Conduit and Tubing<br/>
-Chapter 9, Table 5 — Dimensions of Insulated Conductors and Fixture Wires
+Chapter 9, Table 5 — Dimensions of Insulated Conductors and Fixture Wires --> -->

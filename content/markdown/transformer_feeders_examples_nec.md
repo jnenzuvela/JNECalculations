@@ -1,4 +1,4 @@
-## Overview
+<!-- ## Overview
 
 This section walks through worked examples for calculating transformer primary and secondary full-load currents under the NEC. The key distinction is the formula used; single-phase and three-phase transformers differ by a factor of √3. 
 
@@ -84,4 +84,4 @@ Section 450.5 — Overcurrent Protection of Transformers
 ### Related NEC Tables
 
 Table 310.16 — Ampacities of Insulated Conductors in Raceway, Cable, or Earth<br/>
-Table 310.17 — Ampacities of Single-Insulated Conductors in Free Air
+Table 310.17 — Ampacities of Single-Insulated Conductors in Free Air -->

@@ -1,4 +1,4 @@
-## Overview
+<!-- ## Overview
 
 This section walks through worked examples for calculating motor branch-circuit short-circuit and ground-fault protective device (BCSCGFP) sizing under the National Electrical Code (NEC) 2026. Sizing parameters are governed by **NEC Article 430.52 and Table 430.52(C)(1)**.
 
@@ -194,4 +194,4 @@ Section 430.52 — Rating or Setting for Individual Motor Circuit
 Table 430.52(C)(1) — Maximum Rating of Motor Branch-Circuit Protective Devices<br/>
 Table 430.247 — DC Motor Full-Load Currents<br/>
 Table 430.248 — Single-Phase AC Motor Full-Load Currents<br/>
-Table 430.250 — Three-Phase AC Motor Full-Load Currents
+Table 430.250 — Three-Phase AC Motor Full-Load Currents -->

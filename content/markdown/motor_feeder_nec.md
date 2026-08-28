@@ -1,10 +1,9 @@
-## Overview
+<!-- ## Overview
 
 Sizing motor feeders and branch-circuit conductors is crucial for any industrial application. This section covers key considerations and a practical sizing workflow under the National Electrical Code (NEC) 2026.
 
 <div align="center">
 
-![Figure 1: Example Motor Branch Circuit](../images/SingleMotorFeeder.png)
 
 </div>
 
@@ -12,7 +11,6 @@ The first step when working with any motor is to gather nameplate and design cri
 
 <div align="center">
 
-![Figure 2: Motor Nameplate Example](../images/TestPicture.jpg)
 
 </div>
 
@@ -111,4 +109,4 @@ Table 310.16 — Ampacities of Insulated Conductors in Raceway or Cable<br/>
 Table 430.22(E) — Duty Cycle Conductor Percentages<br/>
 Table 430.247 — DC Motor Full-Load Current<br/>
 Table 430.248 — 1-Phase AC Motor FLC<br/>
-Table 430.250 — 3-Phase AC Motor FLC
+Table 430.250 — 3-Phase AC Motor FLC -->

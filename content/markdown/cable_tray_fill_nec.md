@@ -1,4 +1,4 @@
-## Overview
+<!-- ## Overview
 
 Cable trays comprise a large portion of installation pathways in industrial facilities. They offer a highly accessible routing solution to carry multiple power, control, and signal cables. Sizing and filling cable trays is strictly regulated under **NEC Article 392** to prevent overheating and conductor damage.
 
@@ -88,4 +88,4 @@ Section 392.80 — Ampacity of Conductors in Cable Trays
 Table 392.22(A)(1) — Allowable Cable Fill Area for Multiconductor Cables in Ladder, Ventilated Trough, or Solid Bottom Cable Trays<br/>
 Table 392.22(A)(5) — Allowable Cable Fill Area for Multiconductor Cables in Ventilated Channel Cable Trays<br/>
 Table 392.22(A)(6) — Allowable Cable Fill Area for Multiconductor Cables in Solid Channel Cable Trays<br/>
-Table 392.22(B)(1) — Allowable Cable Fill Area for Single-Conductor Cables in Ladder, Ventilated Trough, or Wire Mesh Cable Trays
+Table 392.22(B)(1) — Allowable Cable Fill Area for Single-Conductor Cables in Ladder, Ventilated Trough, or Wire Mesh Cable Trays -->

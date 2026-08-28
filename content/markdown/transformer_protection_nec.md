@@ -1,4 +1,4 @@
-## Overview
+<!-- ## Overview
 
 The Transformer Protection section outlines the NEC design requirements and overcurrent protection limitations to safeguard transformers and their supply conductors. The NEC classifies transformers into two main voltage levels, each with its own overcurrent protective device (OCPD) sizing limits under **NEC 450.5**:
 
@@ -32,7 +32,6 @@ Note 1 permits a higher rating where the calculated value does not correspond to
 
 <div align="center">
 
-![Figure 1: Transformers rated over 1000V layout](../images/TXProtect1.png)
 
 </div>
 
@@ -56,7 +55,6 @@ Note 1 of Table 450.5(B) is written against "125 percent of this current" only, 
 
 <div align="center">
 
-![Figure 2: Transformers rated under 1000V primary and secondary layout](../images/TXProtect2.png)
 
 </div>
 
@@ -207,4 +205,4 @@ Section 450.5 — Overcurrent Protection of Transformers
 ### Related NEC Tables
 
 Table 450.5(A) — Overcurrent Protection for Transformers Over 1000 Volts<br/>
-Table 450.5(B) — Overcurrent Protection for Transformers 1000 Volts and Less
+Table 450.5(B) — Overcurrent Protection for Transformers 1000 Volts and Less -->

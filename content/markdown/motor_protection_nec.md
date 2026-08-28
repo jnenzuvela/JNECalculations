@@ -1,4 +1,4 @@
-## Overview
+<!-- ## Overview
 
 Once the motor feeder and branch conductors have been sized, the next step is the selection of motor protection devices. Motor circuit protection consists of three primary functions:
 
@@ -103,4 +103,4 @@ Section 430.102 — Location of Disconnecting Means
 ### Related NEC Tables
 
 Table 430.52(C)(1) — Maximum Rating of Motor Branch-Circuit Protective Devices<br/>
-Table 430.250 — Three-Phase AC Motor Full-Load Currents
+Table 430.250 — Three-Phase AC Motor Full-Load Currents -->

@@ -1,4 +1,4 @@
-## Overview
+<!-- ## Overview
 
 This section walks through worked examples for voltage drop calculations using the methods defined under the National Electrical Code (NEC) 2026. This includes calculations using direct conductor properties from Chapter 9, Table 8 and AC impedance values from Chapter 9, Table 9.
 
@@ -114,4 +114,4 @@ Section 215.4(A)(1) — Feeder Voltage Drop Informational Note
 ### Related NEC Tables
 
 Chapter 9, Table 8 — Conductor Properties (DC resistance)<br/>
-Chapter 9, Table 9 — AC Resistance and Reactance for 600-Volt Cables
+Chapter 9, Table 9 — AC Resistance and Reactance for 600-Volt Cables -->

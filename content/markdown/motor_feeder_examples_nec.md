@@ -1,4 +1,4 @@
-## Overview
+<!-- ## Overview
 
 This section walks through worked examples for calculating motor Full-Load Amps (FLA) and conductor sizing targets under the National Electrical Code (NEC) 2026. 
 
@@ -102,4 +102,4 @@ Section 430.22 — Single Motor Conductor Sizing
 Table 310.16 — Ampacities of Insulated Conductors in Raceway or Cable<br/>
 Table 430.247 — DC Motor Full-Load Current<br/>
 Table 430.248 — 1-Phase AC Motor FLC<br/>
-Table 430.250 — 3-Phase AC Motor FLC
+Table 430.250 — 3-Phase AC Motor FLC -->

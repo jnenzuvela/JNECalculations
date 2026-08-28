@@ -1,4 +1,4 @@
-## Overview
+<!-- ## Overview
 
 <!-- This section walks through worked examples for conduit fill calculations under the National Electrical Code (NEC) 2026. The goal is to evaluate conductor areas using Chapter 9, Table 5, select the minimum conduit size from Chapter 9, Table 4, and ensure compliance with Chapter 9, Table 1 fill limits.
 
@@ -34,4 +34,4 @@ Section 310.16 — Allowable Ampacities of Conductors
 
 Chapter 9, Table 1 — Percent of Cross Section of Conduit and Tubing for Conductors<br/>
 Chapter 9, Table 4 — Dimensions and Percent Area of Conduit and Tubing<br/>
-Chapter 9, Table 5 — Dimensions of Insulated Conductors and Fixture Wires
+Chapter 9, Table 5 — Dimensions of Insulated Conductors and Fixture Wires -->

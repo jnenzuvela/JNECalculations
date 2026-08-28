@@ -1,4 +1,4 @@
-## Overview
+<!-- ## Overview
 
 Transformers are passive devices that can deliver their full rated output continuously, so feeder sizing is based on transformer nameplate kVA and voltage rather than downstream load diversity. For this reason, transformer feeders are treated as continuous loads and must be selected to remain within allowable temperature limits after applying ambient temperature, grouping, and termination corrections. This section covers the main aspects of sizing transformer feeders as well as a general methodology under the National Electrical Code (NEC) 2026.
 
@@ -93,4 +93,4 @@ Section 450.5 — Overcurrent Protection of Transformers
 
 Table 310.16 — Ampacities of Insulated Conductors in Raceway, Cable, or Earth (up to 3 Current-Carrying Conductors)<br/>
 Table 310.17 — Ampacities of Single-Insulated Conductors in Free Air<br/>
-Table 310.15(B)(1) — Ambient Temperature Correction Factors (Celsius)
+Table 310.15(B)(1) — Ambient Temperature Correction Factors (Celsius) -->

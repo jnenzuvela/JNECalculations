@@ -1,4 +1,4 @@
-## Overview
+<!-- ## Overview
 
 This section walks through worked examples for calculating and sizing transformer Overcurrent Protective Devices (OCPDs) under the National Electrical Code (NEC) 2026. Sizing is governed by NEC Article 450.5 and the corresponding Tables 450.5(A) and 450.5(B). Sizing maximums differ based on whether the primary nominal voltage is over 1000V or 1000V and less, and whether secondary protection is provided.
 
@@ -153,4 +153,4 @@ Section 450.5 — Overcurrent Protection of Transformers
 ### Related NEC Tables
 
 Table 450.5(A) — Overcurrent Protection for Transformers Over 1000 Volts<br/>
-Table 450.5(B) — Overcurrent Protection for Transformers 1000 Volts and Less
+Table 450.5(B) — Overcurrent Protection for Transformers 1000 Volts and Less -->
