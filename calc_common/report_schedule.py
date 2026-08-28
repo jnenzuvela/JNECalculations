@@ -82,7 +82,12 @@ def _rows_key(spec: ReportSpec) -> str:
     return f"{spec.prefix}_rows"
 
 def _table_key(spec: ReportSpec) -> str:
-    return f"{spec.prefix}_table"
+    version = st.session_state.get(f"{spec.prefix}_table_version", 0)
+    return f"{spec.prefix}_table_{version}"
+
+def _reset_table_selection(spec: ReportSpec) -> None:
+    key = f"{spec.prefix}_table_version"
+    st.session_state[key] = st.session_state.get(key, 0) + 1
 
 def _remove_row_by_index(spec: ReportSpec, index: int):
     rows = get_rows(spec)
@@ -649,7 +654,10 @@ def render_schedule_table(spec: ReportSpec) -> None:
         selection_mode="multi-row",
         key=_table_key(spec),
     )
-    selected = list(getattr(state, "selection", {}).get("rows", []))
+    selected = [
+        int(index) for index in getattr(state, "selection", {}).get("rows", [])
+        if 0 <= int(index) < len(rows)
+    ]
 
     hoisted = sum(
         len(_partition(columns, _rows_for(spec, rows, columns))[1])
@@ -683,10 +691,12 @@ def render_schedule_table(spec: ReportSpec) -> None:
     ):
         for index in sorted(selected, reverse=True):
             remove_row(spec, int(index))
+        _reset_table_selection(spec)
         st.rerun()
 
     if clear_col.button("Clear all", key=f"{spec.prefix}_clear_all", width="stretch"):
         clear(spec)
+        _reset_table_selection(spec)
         st.rerun()
     
     
